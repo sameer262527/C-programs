@@ -1,4 +1,0 @@
-This is my file one for c++
-adding more content in file one..
-This is my repo for c++ programs
-add content
