@@ -1,3 +1,4 @@
+// program to add two objects each having private data members feet and inches using concept of Pass-by-value
 #include<iostream>
 using namespace std;
 

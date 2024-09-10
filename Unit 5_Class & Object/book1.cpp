@@ -1,6 +1,6 @@
-// Book question (page no 108)
-//Write a program to create a class account with data members account_no, account holder's name, balance and minimum balance.
-//Add member functions create_account , deposite, withdraw and balance_inquiry to the class. Create an object of the account class and show all operation with this
+/*** Write a program to create a class account with data members account_no, account holder's name, balance and minimum balance.
+Add member functions create_account , deposite, withdraw and balance_inquiry to the class. 
+Create an object of the account class and show all operation with this ***/
 
 #include<iostream>
 #include<string>

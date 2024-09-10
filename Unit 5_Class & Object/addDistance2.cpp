@@ -1,3 +1,4 @@
+// program to add two objects each having private data members feet and inches and get data(inch, feet) from user in main function
 #include <iostream>
 using namespace std;
 

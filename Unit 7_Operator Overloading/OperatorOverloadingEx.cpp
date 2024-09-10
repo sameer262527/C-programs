@@ -1,5 +1,4 @@
-// C++ Program to Demonstrate
-// Operator Overloading Example
+/** Operator Overloading Example **/
 #include <iostream>
 using namespace std;
 

@@ -1,6 +1,6 @@
-//write a member function called reverseit() that reverses string (an array of character). 
-//Use a for loop that swaps the first and last character, then the second and next-to last character and so on. 
-//The string should be passed to reverseit() as an argument.
+/*** write a member function called reverseit() that reverses string (an array of character). 
+Use a for loop that swaps the first and last character, then the second and next-to last character and so on. 
+The string should be passed to reverseit() as an argument. ***/
 
 #include <iostream>
 using namespace std;
